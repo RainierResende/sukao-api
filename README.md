@@ -14,7 +14,7 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 ### Instale as dependências/bibliotecas, descritas no arquivo `requirements.txt`:
 ```
-(env)$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Inicie o banco de dados usando uma imagem do PostgreSQL no Docker
